@@ -1,5 +1,5 @@
 # 
-# 🚀 ***APEX LOCAL MESSENGER: THE SUPREME ARCHITECTURE*** 🚀
+#  ***APEX LOCAL MESSENGER*** 
 # 
 
 ***Apex Local Messenger*** is a high-performance, full-stack communication suite 
