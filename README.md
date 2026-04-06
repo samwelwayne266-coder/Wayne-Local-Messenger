@@ -83,8 +83,4 @@ the following software environment configured:
 
 ## 📜 ***5. OWNERSHIP & LICENSING***
 This software is provided under the ***MIT License***.
-Full credit for the architecture and development belongs to ***Wayne Core***.
-
----
-# ***ENGINEERED BY WAYNE CORE***
-# 
+Full credit for the architecture and development belongs to ***Wayneee***.
