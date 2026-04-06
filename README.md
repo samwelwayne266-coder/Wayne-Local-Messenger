@@ -1,10 +1,10 @@
 # 
-#  ***APEX LOCAL MESSENGER*** 
+#  ***WAYNE LOCAL MESSENGER*** 
 # 
 
 ***Apex Local Messenger*** is a high-performance, full-stack communication suite 
 engineered for low-latency interaction over local area networks (LAN). 
-By utilizing the ***Wayne Core Supreme Protocol***, this engine provides a 
+By utilizing the ***Wayne Core Protocol***, this engine provides a 
 seamless bridge between desktop and mobile devices without requiring external 
 internet access.
 
@@ -40,7 +40,7 @@ the following software environment configured:
 4. ***EXECUTE BOOT SEQUENCE:*** Run the command to take the server live:
    ***node server.js***
    
-   *Note: Upon successful boot, the terminal will flash: "***WAYNE CORE SUPREME SERVER ONLINE***".*
+   *Note: Upon successful boot, the terminal will flash: "***WAYNE SERVER ONLINE***".*
 
 5. ***MULTIPLE DEVICE ACCESS:***
    * ***Host Machine:*** http://localhost:3000
@@ -82,8 +82,8 @@ the following software environment configured:
 ---
 
 ## 📜 ***5. OWNERSHIP & LICENSING***
-This software is provided under the ***MIT License***. Full credit for the 
-architecture and development belongs to ***Wayne Core***.
+This software is provided under the ***MIT License***.
+Full credit for the architecture and development belongs to ***Wayne Core***.
 
 ---
 # ***ENGINEERED BY WAYNE CORE***
