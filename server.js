@@ -1,8 +1,3 @@
-/* Project: WAYNE CORE SUPREME APEX V7
-   Author: Wayne Core 
-   Secret Code: WAYNE
-   Status: Maximum Character Integration
-*/
 
 const express = require('express');
 const app = express();
@@ -103,7 +98,7 @@ io.on('connection', (socket) => {
 const PORT = process.env.PORT || 3000;
 http.listen(PORT, '0.0.0.0', () => {
     console.log(`=========================================`);
-    console.log(`   WAYNE CORE SUPREME SERVER ONLINE      `);
+    console.log(`   WAYNE SERVER ONLINE      `);
     console.log(`   PORT: ${PORT}                          `);
     console.log(`=========================================`);
 });
